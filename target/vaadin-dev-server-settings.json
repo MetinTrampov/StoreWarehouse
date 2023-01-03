@@ -1,0 +1,16 @@
+{
+  "frontendFolder": "C:/Users/pc/Desktop/flow-crm-tutorial/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/pc/Desktop/flow-crm-tutorial/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/pc/Desktop/flow-crm-tutorial/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\pc\\Desktop\\flow-crm-tutorial\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\pc\\Desktop\\flow-crm-tutorial\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "jarResourcesFolder": "C:/Users/pc/Desktop/flow-crm-tutorial/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "flowcrmtutorial",
+  "clientServiceWorkerSource": "C:\\Users\\pc\\Desktop\\flow-crm-tutorial\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
